@@ -9,4 +9,4 @@ localPort = 5000
 externalPort = 80
 
 [nix]
-packages = ["tree", "wget", "q-text-as-data"]
+packages = ["gdb", "python39Packages.clvm-tools", "q-text-as-data", "tree", "vimHugeX", "wget"]
